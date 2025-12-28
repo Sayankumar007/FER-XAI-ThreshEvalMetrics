@@ -1,5 +1,8 @@
 # FER-XAI-ThreshEvalMetrics
 
+> **Note:** The associated manuscript is currently **under review**.  
+> The source code and experimental implementation will be **publicly released upon publication** of the paper.
+
 ## Revealing the Human-like Similarities in Automated Facial Expression Recognition:  
 ### An Empirical Investigation using eXplainable Artificial Intelligence
 
@@ -11,21 +14,18 @@
 Department of Computer Science and Engineering  
 Jalpaiguri Government Engineering College, West Bengal, India  
 
-**Asit Barman***†  
+**Asit Barman***  
 Department of Information Technology  
 Siliguri Institute of Technology, West Bengal, India  
 📧 mtechitasit@gmail.com  
 
-**Swalpa Kumar Roy**†  
+**Swalpa Kumar Roy**  
 Department of Computer Science and Engineering  
 Alipurduar Government Engineering and Management College, West Bengal, India  
 
-**Paramartha Dutta**†  
+**Paramartha Dutta**  
 Department of Computer and System Sciences  
 Visva-Bharati University, Santiniketan, West Bengal, India  
-
-\* Corresponding Author  
-† These authors contributed equally to this work.
 
 ---
 
