@@ -1,8 +1,6 @@
 # Revealing the Human-like Similarities in Automated Facial Expression Recognition  
 ## An Empirical Investigation using eXplainable Artificial Intelligence
 
----
-
 ## Authors
 
 **Sayan Kumar Bhowmick**  
@@ -174,11 +172,15 @@ python run.py results resnet ./RAF-DB
 If you use this code or ideas in your research, please cite our work:
 
 ```bibTex
-@article{bhowmick2026ferxai,
-  title={Revealing the Human-like Similarities in Automated Facial Expression Recognition: An Empirical Investigation using eXplainable Artificial Intelligence},
+@article{bhowmick2026revealing,
+  title={Revealing the human-like similarities in automated facial expression recognition: an empirical investigation using eXplainable artificial intelligence},
   author={Bhowmick, Sayan Kumar and Barman, Asit and Roy, Swalpa Kumar and Dutta, Paramartha},
-  journal={},
-  year={2026}
+  journal={Multimedia Tools and Applications},
+  volume={85},
+  number={3},
+  pages={243},
+  year={2026},
+  publisher={Springer}
 }
 ```
 
