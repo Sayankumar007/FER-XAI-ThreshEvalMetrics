@@ -23,6 +23,14 @@ Visva-Bharati University, Santiniketan, West Bengal, India
 
 ---
 
+## Affiliation
+Developed under **Adaptive Intelligence LAB**  
+An independent research group focused on AI & Machine Learning  
+
+🔗 https://github.com/adaptive-intelligence-laboratory
+
+---
+
 ## Abstract
 
 Human behavior analysis significantly depends on facial expression recognition, where deep learning has enabled the development of models capable of achieving human-level performance. Explainable Artificial Intelligence (XAI) techniques are employed to validate the trustworthiness of trained convolutional neural networks by generating interpretable saliency heatmaps using methods such as GradCAM, GradCAM++, LayerCAM, and ScoreCAM. These heatmaps highlight critical facial regions utilized by the classifiers, thereby aligning system behavior with human cognitive processes.
